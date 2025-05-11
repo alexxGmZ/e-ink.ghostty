@@ -13,3 +13,4 @@ e-ink theme for Ghostty terminal.
 * [Kitty](https://github.com/alexxGmZ/e-ink.kitty)
 * [cmus](https://github.com/alexxGmZ/e-ink.cmus)
 * [termux](https://github.com/alexxGmZ/e-ink.termux)
+* [Sublime Text](https://github.com/alexxGmZ/e-ink.subl)
