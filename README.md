@@ -9,8 +9,8 @@ e-ink theme for Ghostty terminal.
 
 ## Application Ports
 
-* [NeoVim](https://github.com/alexxGmZ/e-ink.nvim)
-* [Kitty](https://github.com/alexxGmZ/e-ink.kitty)
-* [cmus](https://github.com/alexxGmZ/e-ink.cmus)
-* [termux](https://github.com/alexxGmZ/e-ink.termux)
-* [Sublime Text](https://github.com/alexxGmZ/e-ink.subl)
+* [NeoVim](https://github.com/e-ink-colorscheme/e-ink.nvim)
+* [Kitty](https://github.com/e-ink-colorscheme/e-ink.kitty)
+* [cmus](https://github.com/e-ink-colorscheme/e-ink.cmus)
+* [termux](https://github.com/e-ink-colorscheme/e-ink.termux)
+* [Sublime Text](https://github.com/e-ink-colorscheme/e-ink.subl)
